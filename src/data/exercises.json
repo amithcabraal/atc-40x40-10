@@ -1,0 +1,1023 @@
+{
+  "exercises": [
+    {
+      "title": "Jumping Jacks",
+      "instructions": "Stand with feet together, jump while spreading arms and legs, then return to start position. Repeat.",
+      "categories": [
+        "Aerobic",
+        "Lower body",
+        "Upper body"
+      ],
+      "body_part_focus": [
+        "Legs",
+        "Arms",
+        "Full body"
+      ],
+      "media": [
+      
+        {
+          "type": "video",
+          "url": "./src/data/media/videos/jumping-jacks-preview.mp4",
+          "thumbnail": "https://example.com/jumping-jacks-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "High Knees",
+      "instructions": "Run in place while lifting your knees as high as possible, engaging your core.",
+      "categories": [
+        "Aerobic",
+        "Core",
+        "Lower body"
+      ],
+      "body_part_focus": [
+        "Legs",
+        "Abs"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/high-knees.jpg",
+          "thumbnail": "https://example.com/high-knees-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/high-knees.mp4",
+          "thumbnail": "https://example.com/high-knees-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Butt Kicks",
+      "instructions": "Run in place while kicking your heels toward your glutes.",
+      "categories": [
+        "Aerobic",
+        "Lower body"
+      ],
+      "body_part_focus": [
+        "Legs"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/butt-kicks.jpg",
+          "thumbnail": "https://example.com/butt-kicks-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/butt-kicks.mp4",
+          "thumbnail": "https://example.com/butt-kicks-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Mountain Climbers",
+      "instructions": "Start in a high plank and bring knees towards your chest alternately at a fast pace.",
+      "categories": [
+        "Aerobic",
+        "Core",
+        "Upper body"
+      ],
+      "body_part_focus": [
+        "Arms",
+        "Abs",
+        "Legs"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/mountain-climbers.jpg",
+          "thumbnail": "https://example.com/mountain-climbers-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/mountain-climbers.mp4",
+          "thumbnail": "https://example.com/mountain-climbers-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Burpees",
+      "instructions": "Squat down, jump back into a plank, do a push-up, return to squat, and jump up.",
+      "categories": [
+        "Aerobic",
+        "Strength",
+        "Full body"
+      ],
+      "body_part_focus": [
+        "Legs",
+        "Arms",
+        "Core"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/burpees.jpg",
+          "thumbnail": "https://example.com/burpees-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/burpees.mp4",
+          "thumbnail": "https://example.com/burpees-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Skater Jumps",
+      "instructions": "Jump side to side in a skating motion, keeping your back foot off the ground.",
+      "categories": [
+        "Aerobic",
+        "Balance",
+        "Lower body"
+      ],
+      "body_part_focus": [
+        "Legs",
+        "Core"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/skater-jumps.jpg",
+          "thumbnail": "https://example.com/skater-jumps-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/skater-jumps.mp4",
+          "thumbnail": "https://example.com/skater-jumps-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Fast Feet",
+      "instructions": "Run in place quickly with small, rapid steps.",
+      "categories": [
+        "Aerobic",
+        "Lower body"
+      ],
+      "body_part_focus": [
+        "Legs"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/fast-feet.jpg",
+          "thumbnail": "https://example.com/fast-feet-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/fast-feet.mp4",
+          "thumbnail": "https://example.com/fast-feet-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Lateral Shuffles",
+      "instructions": "Bend your knees slightly and shuffle side to side quickly.",
+      "categories": [
+        "Aerobic",
+        "Lower body",
+        "Balance"
+      ],
+      "body_part_focus": [
+        "Legs"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/lateral-shuffles.jpg",
+          "thumbnail": "https://example.com/lateral-shuffles-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/lateral-shuffles.mp4",
+          "thumbnail": "https://example.com/lateral-shuffles-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Spot Jogging",
+      "instructions": "Jog in place with a steady rhythm.",
+      "categories": [
+        "Aerobic"
+      ],
+      "body_part_focus": [
+        "Legs"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/spot-jogging.jpg",
+          "thumbnail": "https://example.com/spot-jogging-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/spot-jogging.mp4",
+          "thumbnail": "https://example.com/spot-jogging-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Running Man",
+      "instructions": "Move arms and legs as if sprinting but remain in place.",
+      "categories": [
+        "Aerobic",
+        "Lower body"
+      ],
+      "body_part_focus": [
+        "Legs",
+        "Arms"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/running-man.jpg",
+          "thumbnail": "https://example.com/running-man-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/running-man.mp4",
+          "thumbnail": "https://example.com/running-man-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Cross Jacks",
+      "instructions": "Perform jumping jacks while crossing arms and legs alternately.",
+      "categories": [
+        "Aerobic",
+        "Full body"
+      ],
+      "body_part_focus": [
+        "Arms",
+        "Legs"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/cross-jacks.jpg",
+          "thumbnail": "https://example.com/cross-jacks-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/cross-jacks.mp4",
+          "thumbnail": "https://example.com/cross-jacks-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Star Jumps",
+      "instructions": "Jump explosively from a squat position, extending arms and legs outward.",
+      "categories": [
+        "Aerobic",
+        "Lower body"
+      ],
+      "body_part_focus": [
+        "Legs",
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/star-jumps.jpg",
+          "thumbnail": "https://example.com/star-jumps-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/star-jumps.mp4",
+          "thumbnail": "https://example.com/star-jumps-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Speed Skaters",
+      "instructions": "Jump laterally from one foot to another in a skating motion.",
+      "categories": [
+        "Aerobic",
+        "Balance",
+        "Lower body"
+      ],
+      "body_part_focus": [
+        "Legs",
+        "Core"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/speed-skaters.jpg",
+          "thumbnail": "https://example.com/speed-skaters-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/speed-skaters.mp4",
+          "thumbnail": "https://example.com/speed-skaters-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Boxer Shuffle",
+      "instructions": "Shuffle weight from one foot to the other in a light, bouncing motion.",
+      "categories": [
+        "Aerobic"
+      ],
+      "body_part_focus": [
+        "Legs"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/boxer-shuffle.jpg",
+          "thumbnail": "https://example.com/boxer-shuffle-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/boxer-shuffle.mp4",
+          "thumbnail": "https://example.com/boxer-shuffle-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Split Jumps",
+      "instructions": "Jump into a lunge position and switch legs mid-air before landing.",
+      "categories": [
+        "Aerobic",
+        "Lower body",
+        "Strength"
+      ],
+      "body_part_focus": [
+        "Legs"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/split-jumps.jpg",
+          "thumbnail": "https://example.com/split-jumps-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/split-jumps.mp4",
+          "thumbnail": "https://example.com/split-jumps-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Plank",
+      "instructions": "Lie face down, place forearms on the ground, push up onto toes and forearms, keep back straight, hold position.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/plank.jpg",
+          "thumbnail": "https://example.com/plank-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/plank.mp4",
+          "thumbnail": "https://example.com/plank-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Side Plank",
+      "instructions": "Lie on one side, prop yourself up on one forearm, stack feet, keep body straight, hold position.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/side-plank.jpg",
+          "thumbnail": "https://example.com/side-plank-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/side-plank.mp4",
+          "thumbnail": "https://example.com/side-plank-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Bicycle Crunches",
+      "instructions": "Lie on your back, hands behind head, bring opposite elbow to opposite knee in a pedaling motion.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/bicycle-crunches.jpg",
+          "thumbnail": "https://example.com/bicycle-crunches-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/bicycle-crunches.mp4",
+          "thumbnail": "https://example.com/bicycle-crunches-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Russian Twists",
+      "instructions": "Sit with knees bent, lean back slightly, twist torso side to side while holding hands together.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/russian-twists.jpg",
+          "thumbnail": "https://example.com/russian-twists-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/russian-twists.mp4",
+          "thumbnail": "https://example.com/russian-twists-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Reverse Crunches",
+      "instructions": "Lie on back, lift legs up, curl hips off the floor, slowly lower down.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/reverse-crunches.jpg",
+          "thumbnail": "https://example.com/reverse-crunches-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/reverse-crunches.mp4",
+          "thumbnail": "https://example.com/reverse-crunches-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Flutter Kicks",
+      "instructions": "Lie on back, lift legs slightly off the ground, alternate kicking up and down.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/flutter-kicks.jpg",
+          "thumbnail": "https://example.com/flutter-kicks-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/flutter-kicks.mp4",
+          "thumbnail": "https://example.com/flutter-kicks-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Leg Raises",
+      "instructions": "Lie on back, lift legs straight up, lower them slowly without touching the ground.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/leg-raises.jpg",
+          "thumbnail": "https://example.com/leg-raises-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/leg-raises.mp4",
+          "thumbnail": "https://example.com/leg-raises-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "V-Ups",
+      "instructions": "Lie on back, lift legs and upper body simultaneously, touch hands to feet, return to start.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/v-ups.jpg",
+          "thumbnail": "https://example.com/v-ups-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/v-ups.mp4",
+          "thumbnail": "https://example.com/v-ups-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Dead Bug",
+      "instructions": "Lie on back, lift arms and legs, lower opposite arm and leg while keeping core engaged.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/dead-bug.jpg",
+          "thumbnail": "https://example.com/dead-bug-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/dead-bug.mp4",
+          "thumbnail": "https://example.com/dead-bug-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Seated Knee Tucks",
+      "instructions": "Sit on the floor, lift feet, pull knees toward chest, extend legs outward and repeat.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/seated-knee-tucks.jpg",
+          "thumbnail": "https://example.com/seated-knee-tucks-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/seated-knee-tucks.mp4",
+          "thumbnail": "https://example.com/seated-knee-tucks-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Plank Shoulder Taps",
+      "instructions": "Perform the exercise as per standard form.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/plank-shoulder-taps.jpg",
+          "thumbnail": "https://example.com/plank-shoulder-taps-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/plank-shoulder-taps.mp4",
+          "thumbnail": "https://example.com/plank-shoulder-taps-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Hollow Body Hold",
+      "instructions": "Perform the exercise as per standard form.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/hollow-body-hold.jpg",
+          "thumbnail": "https://example.com/hollow-body-hold-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/hollow-body-hold.mp4",
+          "thumbnail": "https://example.com/hollow-body-hold-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Bird Dog",
+      "instructions": "Perform the exercise as per standard form.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/bird-dog.jpg",
+          "thumbnail": "https://example.com/bird-dog-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/bird-dog.mp4",
+          "thumbnail": "https://example.com/bird-dog-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Superman Hold",
+      "instructions": "Lie on stomach, lift arms and legs simultaneously, hold position, lower down.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/superman-hold.jpg",
+          "thumbnail": "https://example.com/superman-hold-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/superman-hold.mp4",
+          "thumbnail": "https://example.com/superman-hold-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Push-Ups",
+      "instructions": "Start in a plank, lower body by bending elbows, push back up to start position.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/push-ups.jpg",
+          "thumbnail": "https://example.com/push-ups-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/push-ups.mp4",
+          "thumbnail": "https://example.com/push-ups-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Diamond Push-Ups",
+      "instructions": "Place hands in a diamond shape under chest, lower body, push back up.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/diamond-push-ups.jpg",
+          "thumbnail": "https://example.com/diamond-push-ups-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/diamond-push-ups.mp4",
+          "thumbnail": "https://example.com/diamond-push-ups-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Triceps Dips",
+      "instructions": "Sit on the ground, hands behind you, lift hips, bend elbows to lower body, push back up.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/triceps-dips.jpg",
+          "thumbnail": "https://example.com/triceps-dips-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/triceps-dips.mp4",
+          "thumbnail": "https://example.com/triceps-dips-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Hindu Push-Ups",
+      "instructions": "Start in downward dog, swoop chest down, push up into cobra pose, return.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/hindu-push-ups.jpg",
+          "thumbnail": "https://example.com/hindu-push-ups-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/hindu-push-ups.mp4",
+          "thumbnail": "https://example.com/hindu-push-ups-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Wide Arm Push-Ups",
+      "instructions": "Perform the exercise as per standard form.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/wide-arm-push-ups.jpg",
+          "thumbnail": "https://example.com/wide-arm-push-ups-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/wide-arm-push-ups.mp4",
+          "thumbnail": "https://example.com/wide-arm-push-ups-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Pike Push-Ups",
+      "instructions": "Start in a downward dog position, lower head towards ground, push back up.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/pike-push-ups.jpg",
+          "thumbnail": "https://example.com/pike-push-ups-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/pike-push-ups.mp4",
+          "thumbnail": "https://example.com/pike-push-ups-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Archer Push-Ups",
+      "instructions": "Perform the exercise as per standard form.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/archer-push-ups.jpg",
+          "thumbnail": "https://example.com/archer-push-ups-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/archer-push-ups.mp4",
+          "thumbnail": "https://example.com/archer-push-ups-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Super Slow Push-Ups",
+      "instructions": "Perform the exercise as per standard form.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/super-slow-push-ups.jpg",
+          "thumbnail": "https://example.com/super-slow-push-ups-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/super-slow-push-ups.mp4",
+          "thumbnail": "https://example.com/super-slow-push-ups-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Isometric Push-Up Hold",
+      "instructions": "Perform the exercise as per standard form.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/isometric-push-up-hold.jpg",
+          "thumbnail": "https://example.com/isometric-push-up-hold-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/isometric-push-up-hold.mp4",
+          "thumbnail": "https://example.com/isometric-push-up-hold-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Wall Sit",
+      "instructions": "Lean against wall, lower until knees at 90 degrees, hold position.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/wall-sit.jpg",
+          "thumbnail": "https://example.com/wall-sit-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/wall-sit.mp4",
+          "thumbnail": "https://example.com/wall-sit-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Squat Hold",
+      "instructions": "Perform the exercise as per standard form.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/squat-hold.jpg",
+          "thumbnail": "https://example.com/squat-hold-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/squat-hold.mp4",
+          "thumbnail": "https://example.com/squat-hold-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Lunge Hold",
+      "instructions": "Perform the exercise as per standard form.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/lunge-hold.jpg",
+          "thumbnail": "https://example.com/lunge-hold-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/lunge-hold.mp4",
+          "thumbnail": "https://example.com/lunge-hold-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Calf Raises",
+      "instructions": "Perform the exercise as per standard form.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/calf-raises.jpg",
+          "thumbnail": "https://example.com/calf-raises-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/calf-raises.mp4",
+          "thumbnail": "https://example.com/calf-raises-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Step Through Lunges",
+      "instructions": "Perform the exercise as per standard form.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/step-through-lunges.jpg",
+          "thumbnail": "https://example.com/step-through-lunges-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/step-through-lunges.mp4",
+          "thumbnail": "https://example.com/step-through-lunges-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Side Lunges",
+      "instructions": "Perform the exercise as per standard form.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/side-lunges.jpg",
+          "thumbnail": "https://example.com/side-lunges-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/side-lunges.mp4",
+          "thumbnail": "https://example.com/side-lunges-video-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Bodyweight Squats",
+      "instructions": "Stand with feet shoulder-width, bend knees, lower hips down, push back up.",
+      "categories": [
+        "Mixed"
+      ],
+      "body_part_focus": [
+        "Full body"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "url": "https://example.com/bodyweight-squats.jpg",
+          "thumbnail": "https://example.com/bodyweight-squats-thumb.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://example.com/bodyweight-squats.mp4",
+          "thumbnail": "https://example.com/bodyweight-squats-video-thumb.jpg"
+        }
+      ]
+    }
+  ]
+}
