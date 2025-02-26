@@ -13,8 +13,7 @@
         "Arms",
         "Full body"
       ],
-      "media": [
-      
+      "media": [ 
         {
           "type": "video",
           "url": "./src/data/media/videos/jumping-jacks-preview.mp4",
@@ -42,7 +41,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/high-knees.mp4",
+          "url": "./src/data/media/videos/high-knees.mp4",
           "thumbnail": "https://example.com/high-knees-video-thumb.jpg"
         }
       ]
@@ -65,7 +64,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/butt-kicks.mp4",
+          "url": "./src/data/media/videos/butt-kicks.mp4",
           "thumbnail": "https://example.com/butt-kicks-video-thumb.jpg"
         }
       ]
@@ -91,7 +90,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/mountain-climbers.mp4",
+          "url": "./src/data/media/videos/mountain-climbers.mp4",
           "thumbnail": "https://example.com/mountain-climbers-video-thumb.jpg"
         }
       ]
@@ -117,7 +116,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/burpees.mp4",
+          "url": "./src/data/media/videos/burpee-preview.mp4",
           "thumbnail": "https://example.com/burpees-video-thumb.jpg"
         }
       ]
@@ -142,7 +141,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/skater-jumps.mp4",
+          "url": "./src/data/media/videos/skater-jumps.mp4",
           "thumbnail": "https://example.com/skater-jumps-video-thumb.jpg"
         }
       ]
@@ -165,7 +164,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/fast-feet.mp4",
+          "url": "./src/data/media/videos/fast-feet.mp4",
           "thumbnail": "https://example.com/fast-feet-video-thumb.jpg"
         }
       ]
@@ -189,7 +188,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/lateral-shuffles.mp4",
+          "url": "./src/data/media/videos/lateral-shuffles.mp4",
           "thumbnail": "https://example.com/lateral-shuffles-video-thumb.jpg"
         }
       ]
@@ -211,7 +210,8 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/spot-jogging.mp4",
+
+          "url": "./src/data/media/videos/spot-jogging.mp4",
           "thumbnail": "https://example.com/spot-jogging-video-thumb.jpg"
         }
       ]
@@ -235,7 +235,8 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/running-man.mp4",
+          "url": "./src/data/media/videos/running-man.mp4",
+
           "thumbnail": "https://example.com/running-man-video-thumb.jpg"
         }
       ]
@@ -259,7 +260,8 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/cross-jacks.mp4",
+          "url": "./src/data/media/videos/cross-jacks.mp4",
+
           "thumbnail": "https://example.com/cross-jacks-video-thumb.jpg"
         }
       ]
@@ -283,7 +285,8 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/star-jumps.mp4",
+          "url": "./src/data/media/videos/jumping-jacks.mp4",
+
           "thumbnail": "https://example.com/star-jumps-video-thumb.jpg"
         }
       ]
@@ -308,7 +311,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/speed-skaters.mp4",
+          "url": "./src/data/media/videos/skater-jumps.mp4",
           "thumbnail": "https://example.com/speed-skaters-video-thumb.jpg"
         }
       ]
@@ -330,7 +333,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/boxer-shuffle.mp4",
+          "url": "./src/data/media/videos/boxer-shuffle.mp4",
           "thumbnail": "https://example.com/boxer-shuffle-video-thumb.jpg"
         }
       ]
@@ -354,7 +357,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/split-jumps.mp4",
+          "url": "./src/data/media/videos/split-jumps.mp4",
           "thumbnail": "https://example.com/split-jumps-video-thumb.jpg"
         }
       ]
@@ -376,7 +379,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/plank.mp4",
+          "url": "./src/data/media/videos/plank-preview.mp4",
           "thumbnail": "https://example.com/plank-video-thumb.jpg"
         }
       ]
@@ -398,7 +401,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/side-plank.mp4",
+          "url": "./src/data/media/videos/side-plank-preview.mp4",
           "thumbnail": "https://example.com/side-plank-video-thumb.jpg"
         }
       ]
@@ -420,7 +423,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/bicycle-crunches.mp4",
+          "url": "./src/data/media/videos/bicycle-crunches.mp4",
           "thumbnail": "https://example.com/bicycle-crunches-video-thumb.jpg"
         }
       ]
@@ -442,7 +445,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/russian-twists.mp4",
+          "url": "./src/data/media/videos/russian-twist.mp4",
           "thumbnail": "https://example.com/russian-twists-video-thumb.jpg"
         }
       ]
@@ -464,7 +467,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/reverse-crunches.mp4",
+          "url": "./src/data/media/videos/reverse-crunches.mp4",
           "thumbnail": "https://example.com/reverse-crunches-video-thumb.jpg"
         }
       ]
@@ -486,7 +489,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/flutter-kicks.mp4",
+          "url": "./src/data/media/videos/leg-flutter-preview.mp4",
           "thumbnail": "https://example.com/flutter-kicks-video-thumb.jpg"
         }
       ]
@@ -530,7 +533,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/v-ups.mp4",
+          "url": "./src/data/media/videos/leg-raises-preview.mp4",
           "thumbnail": "https://example.com/v-ups-video-thumb.jpg"
         }
       ]
@@ -552,7 +555,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/dead-bug.mp4",
+          "url": "./src/data/media/videos/dead-bug.mp4",
           "thumbnail": "https://example.com/dead-bug-video-thumb.jpg"
         }
       ]
@@ -574,7 +577,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/seated-knee-tucks.mp4",
+          "url": "./src/data/media/videos/knee-tuck.mp4",
           "thumbnail": "https://example.com/seated-knee-tucks-video-thumb.jpg"
         }
       ]
@@ -596,7 +599,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/plank-shoulder-taps.mp4",
+          "url": "./src/data/media/videos/shoulder-taps-preview.mp4",
           "thumbnail": "https://example.com/plank-shoulder-taps-video-thumb.jpg"
         }
       ]
@@ -618,7 +621,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/hollow-body-hold.mp4",
+          "url": "./src/data/media/videos/hollow-body-hold.mp4",
           "thumbnail": "https://example.com/hollow-body-hold-video-thumb.jpg"
         }
       ]
@@ -640,7 +643,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/bird-dog.mp4",
+          "url": "./src/data/media/videos/bird-dog-preview.mp4",
           "thumbnail": "https://example.com/bird-dog-video-thumb.jpg"
         }
       ]
@@ -662,7 +665,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/superman-hold.mp4",
+          "url": "./src/data/media/videos/superman.mp4",
           "thumbnail": "https://example.com/superman-hold-video-thumb.jpg"
         }
       ]
@@ -684,7 +687,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/push-ups.mp4",
+          "url": "./src/data/media/videos/push-up.mp4",
           "thumbnail": "https://example.com/push-ups-video-thumb.jpg"
         }
       ]
@@ -706,7 +709,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/diamond-push-ups.mp4",
+          "url": "./src/data/media/videos/diamond-push-up.mp4",
           "thumbnail": "https://example.com/diamond-push-ups-video-thumb.jpg"
         }
       ]
@@ -728,30 +731,8 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/triceps-dips.mp4",
+          "url": "./src/data/media/videos/tricep-dip.mp4",
           "thumbnail": "https://example.com/triceps-dips-video-thumb.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Hindu Push-Ups",
-      "instructions": "Start in downward dog, swoop chest down, push up into cobra pose, return.",
-      "categories": [
-        "Mixed"
-      ],
-      "body_part_focus": [
-        "Full body"
-      ],
-      "media": [
-        {
-          "type": "image",
-          "url": "https://example.com/hindu-push-ups.jpg",
-          "thumbnail": "https://example.com/hindu-push-ups-thumb.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://example.com/hindu-push-ups.mp4",
-          "thumbnail": "https://example.com/hindu-push-ups-video-thumb.jpg"
         }
       ]
     },
@@ -772,7 +753,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/wide-arm-push-ups.mp4",
+          "url": "./src/data/media/videos/boxer-shuffle.mp4",
           "thumbnail": "https://example.com/wide-arm-push-ups-video-thumb.jpg"
         }
       ]
@@ -794,33 +775,12 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/pike-push-ups.mp4",
+          "url": "./src/data/media/videos/pike-push-up.mp4",
           "thumbnail": "https://example.com/pike-push-ups-video-thumb.jpg"
         }
       ]
     },
-    {
-      "title": "Archer Push-Ups",
-      "instructions": "Perform the exercise as per standard form.",
-      "categories": [
-        "Mixed"
-      ],
-      "body_part_focus": [
-        "Full body"
-      ],
-      "media": [
-        {
-          "type": "image",
-          "url": "https://example.com/archer-push-ups.jpg",
-          "thumbnail": "https://example.com/archer-push-ups-thumb.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://example.com/archer-push-ups.mp4",
-          "thumbnail": "https://example.com/archer-push-ups-video-thumb.jpg"
-        }
-      ]
-    },
+
     {
       "title": "Super Slow Push-Ups",
       "instructions": "Perform the exercise as per standard form.",
@@ -838,7 +798,7 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/super-slow-push-ups.mp4",
+          "url": "./src/data/media/videos/boxer-shuffle.mp4",
           "thumbnail": "https://example.com/super-slow-push-ups-video-thumb.jpg"
         }
       ]
@@ -881,8 +841,8 @@
           "thumbnail": "https://example.com/wall-sit-thumb.jpg"
         },
         {
-          "type": "video",
-          "url": "https://example.com/wall-sit.mp4",
+          "type": "video", 
+           "url": "./src/data/media/videos/wall-sit.mp4",
           "thumbnail": "https://example.com/wall-sit-video-thumb.jpg"
         }
       ]
@@ -904,7 +864,8 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/squat-hold.mp4",
+    
+          "url": "./src/data/media/videos/squats.mp4",
           "thumbnail": "https://example.com/squat-hold-video-thumb.jpg"
         }
       ]
@@ -926,8 +887,9 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/lunge-hold.mp4",
-          "thumbnail": "https://example.com/lunge-hold-video-thumb.jpg"
+
+          "url": "./src/data/media/videos/lunge-with-twist.mp4",
+                    "thumbnail": "https://example.com/lunge-hold-video-thumb.jpg"
         }
       ]
     },
@@ -948,7 +910,8 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/calf-raises.mp4",
+    
+          "url": "./src/data/media/videos/calf-raises.mp4",
           "thumbnail": "https://example.com/calf-raises-video-thumb.jpg"
         }
       ]
@@ -970,7 +933,8 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/step-through-lunges.mp4",
+       
+          "url": "./src/data/media/videos/step-through-lunges.mp4",
           "thumbnail": "https://example.com/step-through-lunges-video-thumb.jpg"
         }
       ]
@@ -992,7 +956,8 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/side-lunges.mp4",
+  
+          "url": "./src/data/media/videos/side-lunges.mp4",
           "thumbnail": "https://example.com/side-lunges-video-thumb.jpg"
         }
       ]
@@ -1014,7 +979,8 @@
         },
         {
           "type": "video",
-          "url": "https://example.com/bodyweight-squats.mp4",
+
+          "url": "./src/data/media/videos/squats.mp4",
           "thumbnail": "https://example.com/bodyweight-squats-video-thumb.jpg"
         }
       ]
